@@ -1,0 +1,31 @@
+{
+  "name": "@desco/vue-flip",
+  "version": "1.0.0",
+  "description": "VueJS package for FLIP effect on elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desco-npm/vue-flip.git"
+  },
+  "keywords": [
+    "vue",
+    "flip",
+    "element"
+  ],
+  "author": "Rafael A. R. Dias <eu@diasrafael.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desco-npm/vue-flip/issues"
+  },
+  "homepage": "https://github.com/desco-npm/vue-flip#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "pug": "^3.0.2",
+    "sass-loader": "^11.0.1",
+    "template-html-loader": "^1.0.0",
+    "vue-resize": "^1.0.0"
+  }
+}
