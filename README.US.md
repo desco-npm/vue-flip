@@ -1,6 +1,6 @@
 <div align="right">
   <a href="README.md">
-    <img alt="Ler em Portugês do Brasil" src="https://img.shields.io/static/v1?label=&message=🇧🇷 Ler em Português do Brasil&color=green&style=for-the-badge" />
+    <img alt="Ler em Portugês do Brasil" src="https://img.shields.io/static/v1?label=&message=Ler+em+Portugu%C3%AAs+do+Brasil&color=green&style=for-the-badge" />
   </a>
 </div>
 
@@ -30,10 +30,10 @@
 
 ## 📋 Table of Contents
 
-* [🛠️ Technology](#Technology)
-* [⚙️ Installation](#Installation)
-* [📦 Import](#Import)
-* [📚 How to use](#How-to-use)
+- [🛠️ Technology](#Technology)
+- [⚙️ Installation](#Installation)
+- [📦 Import](#Import)
+- [📚 How to use](#How-to-use)
 
 ---
 
@@ -43,11 +43,12 @@
 
 The following technologies are used:
 
-* [VueJS](https://vuejs.org/);
-* [PUG/JADE](https://jade-lang.com/);
-* [SASS/SCSS](https://sass-lang.com/);
+- [VueJS](https://vuejs.org/);
+- [PUG/JADE](https://jade-lang.com/);
+- [SASS/SCSS](https://sass-lang.com/);
 
 ---
+
 <a name="Installation"></a>
 
 ## ⚙️ Installation
@@ -130,11 +131,11 @@ It is also possible to flip when the mouse passes over the element, see:
 
 ### Parameters
 
-| Name | Type | Details | Description
-| --- | --- | --- | ---
-| height | String | - | Element height
-| turned | Boolean | false | If the element is flipped (Use to flip according to your rule)
-| hover | Boolean | false | Whether to flip (flip) when hovering over the element
+| Name   | Type    | Details | Description                                                    |
+| ------ | ------- | ------- | -------------------------------------------------------------- |
+| height | String  | -       | Element height                                                 |
+| turned | Boolean | false   | If the element is flipped (Use to flip according to your rule) |
+| hover  | Boolean | false   | Whether to flip (flip) when hovering over the element          |
 
 ---
 
@@ -157,10 +158,10 @@ It is also possible to flip when the mouse passes over the element, see:
         <img alt="Facebook @eudiasrafael" src="https://img.shields.io/static/v1?label=Facebook&message=@eudiasrafael&color=blue&logo=facebook&style=for-the-badge">
       </a>
       <a href="https://github.com/descodifica" target="_blank">
-        <img alt="GitHub Overview @descodifica" src="https://img.shields.io/static/v1?label=GitHub Overview&message=@descodifica&color=black&logo=github&style=for-the-badge">
+        <img alt="GitHub Overview @descodifica" src="https://img.shields.io/static/v1?label=GitHub+Overview&message=@descodifica&color=black&logo=github&style=for-the-badge">
       </a>
       <a href="https://github.com/desco-npm" target="_blank">
-        <img alt="GitHub NPM @desco-npm" src="https://img.shields.io/static/v1?label=GitHub NPM&message=@desco-npm&color=black&logo=github&style=for-the-badge">
+        <img alt="GitHub NPM @desco-npm" src="https://img.shields.io/static/v1?label=GitHub+NPM&message=@desco-npm&color=black&logo=github&style=for-the-badge">
       </a>
       <a href="https://www.npmjs.com/org/desco" target="_blank">
         <img alt="NPM @desco" src="https://img.shields.io/static/v1?label=NPM&message=@desco&color=red&logo=npm&style=for-the-badge">

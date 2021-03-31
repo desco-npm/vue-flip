@@ -1,6 +1,6 @@
 <div align="right">
   <a href="README.US.md">
-    <img alt="Read in American English" src="https://img.shields.io/static/v1?label=&message=🇺🇸 Read in American English&color=red&style=for-the-badge" />
+    <img alt="Read in American English" src="https://img.shields.io/static/v1?label=&message=Read+in+American+English&color=red&style=for-the-badge" />
   </a>
 </div>
 
@@ -12,8 +12,8 @@
       Pacote NPM para VueJS para efeito de FLIP nos elementos.
       <br /><br />
       <div align="center">
-        <img alt="Licença MIT" src="https://img.shields.io/static/v1?label=Licença&message=MIT&color=green&style=for-the-badge">
-        <img alt="Versão 1.0.0" src="https://img.shields.io/static/v1?label=Versão&message=1.0.0&color=blue&style=for-the-badge">
+        <img alt="Licença MIT" src="https://img.shields.io/static/v1?label=Licen%C3%A7a&message=MIT&color=green&style=for-the-badge">
+        <img alt="Versão 1.0.0" src="https://img.shields.io/static/v1?label=Vers%C3%A3o&message=1.0.0&color=blue&style=for-the-badge">
       </div>
       <h4 align="center"> 
         🚀 Pronto para uso! 🚀
@@ -30,23 +30,22 @@
 
 ## 📋 Tabela de conteúdos
 
-* [🛠️ Tecnologias](#Tecnologias)
-* [⚙️ Instalação](#Instalação)
-* [📦 Importação](#Importação)
-* [📚 Como Usar](#Como-Usar)
+- [🛠️ Tecnologias](#Tecnologias)
+- [⚙️ Instalação](#Instalação)
+- [📦 Importação](#Importação)
+- [📚 Como Usar](#Como-Usar)
 
 ---
 
 <a name="Tecnologias"></a>
 
-
 ## 🛠️ Tecnologias
 
 As seguintes tecnologias são utilizadas:
 
-* [VueJS](https://vuejs.org/);
-* [PUG/JADE](https://jade-lang.com/);
-* [SASS/SCSS](https://sass-lang.com/);
+- [VueJS](https://vuejs.org/);
+- [PUG/JADE](https://jade-lang.com/);
+- [SASS/SCSS](https://sass-lang.com/);
 
 ---
 
@@ -132,11 +131,11 @@ Também é possível fazer o flip quando o mouse passar por cima do elemento, ve
 
 ### Parâmetros
 
-| Nome | Tipo | Detalhes | Descrição
-|---|---|---|---
-| height | String | - | Altura do elemento
-| turned | Boolean | false | Se o elemento esta virado (Use para fazer o flip de acordo com a sua regra)
-| hover | Boolean | false | Se deve virar (fazer o flip) quando passar o mouse sobre o elemento
+| Nome   | Tipo    | Detalhes | Descrição                                                                   |
+| ------ | ------- | -------- | --------------------------------------------------------------------------- |
+| height | String  | -        | Altura do elemento                                                          |
+| turned | Boolean | false    | Se o elemento esta virado (Use para fazer o flip de acordo com a sua regra) |
+| hover  | Boolean | false    | Se deve virar (fazer o flip) quando passar o mouse sobre o elemento         |
 
 ---
 
@@ -159,10 +158,10 @@ Também é possível fazer o flip quando o mouse passar por cima do elemento, ve
         <img alt="Facebook @eudiasrafael" src="https://img.shields.io/static/v1?label=Facebook&message=@eudiasrafael&color=blue&logo=facebook&style=for-the-badge">
       </a>
       <a href="https://github.com/descodifica" target="_blank">
-        <img alt="GitHub Overview @descodifica" src="https://img.shields.io/static/v1?label=GitHub Overview&message=@descodifica&color=black&logo=github&style=for-the-badge">
+        <img alt="GitHub Overview @descodifica" src="https://img.shields.io/static/v1?label=GitHub+Overview&message=@descodifica&color=black&logo=github&style=for-the-badge">
       </a>
       <a href="https://github.com/desco-npm" target="_blank">
-        <img alt="GitHub NPM @desco-npm" src="https://img.shields.io/static/v1?label=GitHub NPM&message=@desco-npm&color=black&logo=github&style=for-the-badge">
+        <img alt="GitHub NPM @desco-npm" src="https://img.shields.io/static/v1?label=GitHub+NPM&message=@desco-npm&color=black&logo=github&style=for-the-badge">
       </a>
       <a href="https://www.npmjs.com/org/desco" target="_blank">
         <img alt="NPM @desco" src="https://img.shields.io/static/v1?label=NPM&message=@desco&color=red&logo=npm&style=for-the-badge">
